@@ -1,0 +1,15 @@
+generated: '2026-07-21'
+method: searched
+source: https://developers.turnitin.com/turnitin-core-api
+status_page: https://turnitin.statuspage.io/
+versioning:
+  scheme: unknown
+  note: >-
+    The Turnitin Core API reference documentation is credential-gated; a public
+    versioning policy could not be verified.
+deprecation:
+  policy_url: null
+  note: No public deprecation / sunset policy found.
+sla:
+  url: null
+deprecated_operations: []

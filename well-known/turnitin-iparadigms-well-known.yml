@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: searched
+source: live probes of Turnitin hosts
+host: https://www.turnitin.com
+documents:
+- path: /.well-known/security.txt
+  status: 200
+  file: turnitin-iparadigms-security.txt
+- path: /.well-known/openid-configuration
+  status: 404
+notes: >-
+  Only www.turnitin.com/.well-known/security.txt is a real RFC 9116 document
+  (text/plain, verified verbatim). developers.turnitin.com returns a soft
+  3-second HTML redirect to oops.turnitin.com for /.well-known/* paths, so its
+  200 responses for security.txt / openid-configuration are not genuine
+  discovery documents.

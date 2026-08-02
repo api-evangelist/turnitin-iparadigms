@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: https://developers.turnitin.com/turnitin-core-api
+standards:
+- id: lti-1.3
+  conforms: true
+  evidence: >-
+    Turnitin is a 1EdTech (IMS Global) LTI-certified tool provider supporting an
+    LTI 1.3 / LTI Advantage standards-based integration
+    (https://developers.turnitin.com/learning-tools-interoperability).
+- id: soc2
+  conforms: true
+  evidence: >-
+    SOC 2 compliance stated as an integration benefit on the Turnitin Core API
+    developer overview (https://developers.turnitin.com/turnitin-core-api).
+- id: rest
+  conforms: true
+  evidence: >-
+    The Turnitin Core API (TCA) is described as a RESTful API accessed over HTTPS.
+- id: rfc9116-security-txt
+  conforms: true
+  evidence: >-
+    RFC 9116-compliant security.txt published at
+    https://www.turnitin.com/.well-known/security.txt.
+- id: oauth2
+  conforms: false
+  evidence: >-
+    TCA reference documentation is credential-gated; the authentication scheme is
+    not publicly documented and could not be verified.

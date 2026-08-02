@@ -1,0 +1,22 @@
+# Our security.txt file - RFC 9116 Compliant
+# This file provides our coordinated vulnerability disclosure policy and contact details for security researchers.
+
+Contact: mailto:vdp@turnitin.com
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/154ECB78C85A2770395A3B237324F39C417129E5
+Policy: https://turnitin.com/vulnerability-disclosure-policy
+Preferred-Languages: en
+Hiring: https://www.turnitin.com/about/careers/
+
+# Safe Harbor Statement
+# We support responsible security research. If you follow the rules of our Vulnerability Disclosure Policy,
+# we will not initiate legal action against you, or request law enforcement investigation, for your research
+# and reporting activities conducted in good faith.
+
+# Rules of Engagement Summary
+# - Do not access, modify, or delete data that does not belong to you.
+# - Avoid impacting the availability or performance of our systems.
+# - Do not use social engineering, phishing, or physical intrusion.
+# - Do not publicly disclose vulnerabilities without prior written consent or before the remediation timeline agreed upon.
+
+# Last Updated : 2026-09-13
+

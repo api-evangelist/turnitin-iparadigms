@@ -1,0 +1,23 @@
+# Turnitin (iParadigms)
+
+> Turnitin is an education-technology company providing academic integrity, similarity checking, and grading products used by schools, universities, researchers, and publishers. It offers two programmatic integration surfaces for third-party platforms: a 1EdTech-certified LTI 1.3 / LTI Advantage integration, and the Turnitin Core API (TCA) — a RESTful API for submitting files, generating Similarity Reports, and displaying results in-workflow. TCA reference docs are credential-gated (existing customers and approved integration partners). Turnitin states SOC 2 compliance and operates international data centers. Gradescope is a Turnitin company.
+
+## Developer
+- [Turnitin Developer Portal](https://developers.turnitin.com/): Integration hub for LTI and the Turnitin Core API.
+- [Turnitin Core API (TCA)](https://developers.turnitin.com/turnitin-core-api): RESTful similarity-checking API; reference is credential-gated.
+- [Learning Tools Interoperability (LTI)](https://developers.turnitin.com/learning-tools-interoperability): LTI 1.3 / LTI Advantage certified integration.
+
+## Product
+- [Turnitin](https://www.turnitin.com/): Company website.
+- [Blog](https://www.turnitin.com/blog/): Product and integrity research blog.
+- [Help Center](https://helpcenter.turnitin.com/): Product help and guides.
+- [Support](https://support.turnitin.com/): Customer support.
+
+## Operations & Security
+- [System Status](https://turnitin.statuspage.io/): Service status page.
+- [Vulnerability Disclosure Policy](https://www.turnitin.com/vulnerability-disclosure-policy/): Coordinated disclosure program with Safe Harbor.
+- [security.txt](https://www.turnitin.com/.well-known/security.txt): RFC 9116 security contact (vdp@turnitin.com).
+
+## Legal
+- [Privacy Policy](https://www.turnitin.com/privacy-policy-website/)
+- [Terms of Use](https://www.turnitin.com/terms-of-use-website/)
