@@ -44,6 +44,16 @@ tags:
 - LTI
 - Assessment
 - Grading
+tags_raw:
+- Company
+- Education
+- EdTech
+- Academic Integrity
+- Plagiarism Detection
+- Similarity
+- LTI
+- Assessment
+- Grading
 - API
 apis:
 - name: Turnitin Core API (TCA)
