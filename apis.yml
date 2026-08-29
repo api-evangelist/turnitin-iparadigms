@@ -13,6 +13,17 @@ description: >-
   Turnitin states SOC 2 compliance and operates international data centers.
   Gradescope is a Turnitin company. Backed by Insight Partners.
 url: https://raw.githubusercontent.com/api-evangelist/turnitin-iparadigms/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
